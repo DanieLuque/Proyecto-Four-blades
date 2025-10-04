@@ -1,0 +1,82 @@
+[
+  {
+    "id": "r6",
+    "cliente": {
+      "id": "c5",
+      "nombre": "Hugo",
+      "email": "andres@gmail.com",
+      "telefono": "21223"
+    },
+    "estilista": {
+      "id": "e3",
+      "nombre": "Yeison",
+      "especialidades": [
+        "Corte"
+      ]
+    },
+    "servicio": {
+      "id": "s3",
+      "nombre": "Barba",
+      "duracionMinutos": 15,
+      "precio": 20000,
+      "productosNecesarios": [],
+      "estilo": "Clásico"
+    },
+    "fecha": "2025-12-11T00:00:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "r6",
+    "cliente": {
+      "id": "c1",
+      "nombre": "Andrés",
+      "email": "andres@mail.com",
+      "telefono": "3001234567"
+    },
+    "estilista": {
+      "id": "e2",
+      "nombre": "Maria",
+      "especialidades": [
+        "Tinte",
+        "Corte"
+      ]
+    },
+    "servicio": {
+      "id": "s1",
+      "nombre": "Corte",
+      "duracionMinutos": 30,
+      "precio": 30000,
+      "productosNecesarios": [],
+      "longitud": 20
+    },
+    "fecha": "2025-11-12T00:00:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "r6",
+    "cliente": {
+      "id": "c3",
+      "nombre": "andres",
+      "email": "andres",
+      "telefono": "89"
+    },
+    "estilista": {
+      "id": "e1",
+      "nombre": "Juan",
+      "especialidades": [
+        "Corte",
+        "Barba"
+      ]
+    },
+    "servicio": {
+      "id": "s3",
+      "nombre": "Barba",
+      "duracionMinutos": 15,
+      "precio": 20000,
+      "productosNecesarios": [],
+      "estilo": "Clásico"
+    },
+    "fecha": "2222-02-12T00:00:00.000Z",
+    "estado": "pendiente"
+  }
+]

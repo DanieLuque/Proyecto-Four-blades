@@ -1,0 +1,25 @@
+[
+  {
+    "id": "e1",
+    "nombre": "Juan",
+    "especialidades": [
+      "Corte",
+      "Barba"
+    ]
+  },
+  {
+    "id": "e2",
+    "nombre": "Maria",
+    "especialidades": [
+      "Tinte",
+      "Corte"
+    ]
+  },
+  {
+    "id": "e3",
+    "nombre": "Yeison",
+    "especialidades": [
+      "Corte"
+    ]
+  }
+]

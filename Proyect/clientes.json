@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c1",
+    "nombre": "Andrés",
+    "email": "andres@mail.com",
+    "telefono": "3001234567"
+  },
+  {
+    "id": "c2",
+    "nombre": "Dayana",
+    "email": "dayana@mail.com",
+    "telefono": "3007654321"
+  },
+  {
+    "id": "c3",
+    "nombre": "andres",
+    "email": "andres",
+    "telefono": "89"
+  },
+  {
+    "id": "c4",
+    "nombre": "Pepe",
+    "email": "pepe@gmail.com",
+    "telefono": "300555000"
+  },
+  {
+    "id": "c5",
+    "nombre": "Hugo",
+    "email": "andres@gmail.com",
+    "telefono": "21223"
+  }
+]
